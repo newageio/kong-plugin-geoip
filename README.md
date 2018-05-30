@@ -14,6 +14,11 @@ POST :8001/plugins
 Plugin only manualy tested.
 Automated only `schema_spec`
 
+# Todo:
+- User-agent whitelist for SEO bots
+- Blocking by city
+- Write tests
+
 Todo: Fix problem with tests:
 ```
 vagrant@vagrant-ubuntu-trusty-64:/kong$ bin/busted -f kong.conf.default /kong-plugin/spec/
