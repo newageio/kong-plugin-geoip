@@ -32,6 +32,7 @@ Automated only `schema_spec`
 
 # Todo:
 
+- Routes / APIs attaching 
 - User-agent whitelist for SEO bots
 - Blocking by city
 - Write tests
