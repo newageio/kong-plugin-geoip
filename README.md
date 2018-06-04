@@ -1,4 +1,6 @@
 # Kong plugin GeoIP
+- Why?
+It just wrapper for using geo-ip with UI's for Kong.
 
 # Installation
 http://luarocks.org/modules/newage/kong-plugin-geoip
@@ -33,6 +35,7 @@ Automated only `schema_spec`
 # Todo:
 
 - Routes / APIs attaching 
+- Add to KongaUI
 - User-agent whitelist for SEO bots
 - Blocking by city
 - Write tests
